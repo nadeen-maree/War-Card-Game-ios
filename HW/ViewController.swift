@@ -148,7 +148,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate{
         
         // Implement the delegate method
         func gameViewControllerDidFinish(_ gameViewController: GameViewController) {
-            // Handle the dismissal of GameViewController here
+            // Handle the dismissal of GameViewController
             if let presentedGameVC = presentedViewController as? GameViewController {
                 presentedGameVC.dismiss(animated: true, completion: nil)
             }
@@ -189,7 +189,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate{
     }
     
     func locationManager(_ manager: CLLocationManager, didFailWithError error: Error) {
-        // Handle the location manager error here
+        // Handle the location manager error
         print("Location manager failed with error: \(error.localizedDescription)")
     }
 }
