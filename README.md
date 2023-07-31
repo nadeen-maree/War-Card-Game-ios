@@ -1,4 +1,4 @@
-# War Card Game iOS App
+# War Card Game iOS App🃏
 
 Welcome to the War Card Game iOS app! This is a simple card game where you compete against the computer. The game automatically determines your side (east or west) based on your location, and you can enter your name to keep track of your scores.
 
