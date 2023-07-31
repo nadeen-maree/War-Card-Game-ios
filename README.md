@@ -16,7 +16,7 @@ To get started, simply download and install the War Card Game app on your iOS de
 
 ## Game Rules
 
-1. The game is played with a standard deck of 52 playing cards.
+1. The game is played with a standard deck of playing cards.
 2. Each player (you and the computer) is dealt one card at a time.
 3. The strength of each card is based on its face value: Ace (1) to 10, Jack (11), Queen (12), King (13).
 4. Both players' cards are initially face down.
@@ -27,7 +27,12 @@ To get started, simply download and install the War Card Game app on your iOS de
 
 ## Screenshots
 
- <img width="90" alt="Icon-60@3x" src="https://user-images.githubusercontent.com/82876741/210613281-f5c461d2-4d96-462c-b81e-fc2f6e12f80d.png">
+ <img width="200" alt="picture1" src="https://github.com/nadeen-maree/War-Card-Game-ios/blob/master/Screenshots/picture1.png"> <img width="200" alt="picture2" src="https://github.com/nadeen-maree/War-Card-Game-ios/blob/master/Screenshots/picture2.png">
+ <img width="200" alt="picture3" src="https://github.com/nadeen-maree/War-Card-Game-ios/blob/master/Screenshots/picture3.png">
+ <img width="200" alt="picture4" src="https://github.com/nadeen-maree/War-Card-Game-ios/blob/master/Screenshots/picture4.png">
+ <img width="200" alt="picture5" src="https://github.com/nadeen-maree/War-Card-Game-ios/blob/master/Screenshots/picture5.png">
+ <img width="200" alt="picture6" src="https://github.com/nadeen-maree/War-Card-Game-ios/blob/master/Screenshots/picture6.png">
+
 
 ## Gameplay
 
@@ -45,6 +50,6 @@ After playing 10 rounds, the game will end, and the final score will be displaye
 
 ## Resetting Data
 
-If you wish to start a new game or reset the app's data, you can do so by pressing the "Back" button in the popup screen. This will take you back to the main menu (ViewController class), and all data collected during the game will be reset.
+If you wish to start a new game or reset the app's data, you can do so by pressing the "Back" button in the popup screen. This will take you back to the main menu, and all data collected during the game will be reset.
 
 Enjoy playing the War Card Game app! If you encounter any issues or have suggestions for improvement, please feel free to open an issue on the GitHub repository. Happy gaming!
